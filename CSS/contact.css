@@ -1,0 +1,28 @@
+.contact {
+  border-spacing: 10px;
+}
+.contact th{
+  height: 7rem;
+  width: 150px;
+  text-align: right;
+}
+.contact td textarea{
+  width: 480px;
+}
+.sendframe {
+  display: flex;
+  justify-content: center;
+}
+.send {
+  display: block;
+  text-align: center;
+}
+.sendbutton {
+  font-size: 3rem;
+  color: white;
+  background-color: #008B8B;
+  padding: 10px;
+}
+.send:hover {
+  opacity: 0.5;
+}
